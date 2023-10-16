@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daisyui-page/static/css/main.c3f4b8dc.css",
+    "main.js": "/daisyui-page/static/js/main.70d37f99.js",
+    "static/media/bootstrap-icons.woff?": "/daisyui-page/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/daisyui-page/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/daisyui-page/index.html",
+    "main.c3f4b8dc.css.map": "/daisyui-page/static/css/main.c3f4b8dc.css.map",
+    "main.70d37f99.js.map": "/daisyui-page/static/js/main.70d37f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3f4b8dc.css",
+    "static/js/main.70d37f99.js"
+  ]
+}
